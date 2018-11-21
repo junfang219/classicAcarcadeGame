@@ -5,7 +5,4 @@ In this game, your goal is to control the character (a pink hair girl) to reach 
 
 Have fun!
 # frontend-nanodegree-arcade-game
-# ClassicArcadeGame
-# ClassicArcadeGame
-# frontend-nanodegree-arcade-game
-# classicAcarcadeGame
+
